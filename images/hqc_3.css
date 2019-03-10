@@ -1,0 +1,37 @@
+
+.title{ text-align: center;}
+.title-one{color: #333333;font-size: 33px;}
+.title-one i{display: inline-block;  width: 43px; height: 16px; background: url("title_icon_01.png") no-repeat; margin: 0 34px -5px 34px;}
+.title-two{color: #999999; font-size: 18px;}
+.past-activity .slidetxtbox .bd ul li.two .title-one i{ width: 488px; height: 7px;background: url("past-activity_details_icon_01.png") no-repeat; margin: 0 45px -5px 0;}
+.past-activity .slidetxtbox .bd ul li.two .title-one i:last-child{width: 489px;background: url("past-activity_details_icon_02.png") no-repeat;margin: 0 0 -5px 44px; }
+.past-activity{background: #fff; padding-top: 61px; padding-bottom: 98px;}
+.past-activity .slidetxtbox .hd{ padding-bottom: 69px; }
+.past-activity .slidetxtbox .hd ul{padding-top: 42px;text-align: center;}
+.past-activity .slidetxtbox .hd ul li{ display: inline-block; width: 103px; height: 38px; line-height: 38px; margin-left: 18px;text-align: center;font-size:15px;color:#333;background: #ebebeb;cursor: pointer;}
+.past-activity .slidetxtbox .hd ul li.on{
+    color: #fefefe;
+    background: -webkit-linear-gradient(-90deg, #1c2dab 0%, #588ced 100%);
+    background: -o-linear-gradient(-90deg, #1c2dab 0%, #588ced 100%);
+    background: -moz-linear-gradient(-90deg, #1c2dab 0%, #588ced 100%);
+    background: linear-gradient(-90deg, #1c2dab 0%, #588ced 100%);}
+.past-activity .slidetxtbox .bd ul li.one{ margin-bottom: 74px;}
+.past-activity .slidetxtbox .bd ul li .one-l{ float: left;}
+.past-activity .slidetxtbox .bd ul li .one-r{ background:#fafafa;float: left; width: 540px; padding: 44px 28px 3px 53px;font-size: 15px;color: #333;}
+.past-activity .slidetxtbox .bd ul li .one-r .h{font-size: 25px;}
+.past-activity .slidetxtbox .bd ul li .one-r .line{ width: 564px; height: 1px;background: #d5d5d5; margin-top: 32px; margin-bottom: 28px; margin-left: -12px;}
+.past-activity .slidetxtbox .bd ul li .one-r .one{ text-indent: 2em; line-height: 30px;}
+.past-activity .slidetxtbox .bd ul li .one-r .two{ text-indent: 2em; line-height: 30px;}
+.past-activity .slidetxtbox .bd ul li .one-r .three{ width: 540px; text-indent: 2em; line-height: 25px;}
+.past-activity .slidetxtbox .bd ul li.two{}
+.past-activity .slidetxtbox .bd ul li.two .pics{ margin-top: 66px;}
+.past-activity .slidetxtbox .bd ul li.two .pics-l{ float: left;}
+.past-activity .slidetxtbox .bd ul li.two .pics-r{ float: right;}
+.past-activity .slidetxtbox .bd ul li.two .pics-r ul:first-child{ margin-bottom: 10px;}
+.past-activity .slidetxtbox .bd ul li.two .pics-r li{ float: left;}
+.past-activity .slidetxtbox .bd ul li.two .pics-r li:last-child{ margin-left: 8px;}
+.past-activity .slidetxtbox .bd ul li.two .line{ width: 100%; height: 3px;background: #98c2f5; margin-top: 48px; margin-bottom: 8px;}
+.past-activity .slidetxtbox .bd ul li.two .page{ padding: 33px 11px 29px 11px; border: 1px solid #98c2f5;}
+.past-activity .slidetxtbox .bd ul li.two .page p{color: #333;font-size: 15px; text-indent: 2em; line-height: 30px;}
+.past-activity .slidetxtbox .bd ul li.two .page h2{ color:#333;font-size: 15px; font-weight: bold; text-indent: 2em; line-height: 30px;}
+.past-activity .slidetxtbox .bd ul li.two .page p span{font-weight: bold; }

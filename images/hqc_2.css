@@ -1,0 +1,37 @@
+
+
+.title{ text-align: center;}
+.title-one{color: #333333;font-size: 33px;}
+.title-one i{display: inline-block;  width: 43px; height: 16px; background: url("title_icon_01.png") no-repeat; margin: 0 34px -5px 34px;}
+.title-two{color: #999999; font-size: 18px;}
+
+
+.past-activity{background: #fff; padding-top: 61px; padding-bottom: 72px;}
+.past-activity .slidetxtbox .hd{ padding-bottom: 50px; }
+.past-activity .slidetxtbox .hd ul{padding-top: 42px;text-align: center;}
+.past-activity .slidetxtbox .hd ul li{ display: inline-block; width: 103px; height: 38px; line-height: 38px; margin-left: 18px;text-align: center;font-size:15px;color:#333;background: #ebebeb;cursor: pointer;}
+.past-activity .slidetxtbox .hd ul li.on{
+    color: #fefefe;
+    background: -webkit-linear-gradient(-90deg, #1c2dab 0%, #588ced 100%);
+    background: -o-linear-gradient(-90deg, #1c2dab 0%, #588ced 100%);
+    background: -moz-linear-gradient(-90deg, #1c2dab 0%, #588ced 100%);
+    background: linear-gradient(-90deg, #1c2dab 0%, #588ced 100%);}
+.past-activity .slidetxtbox .bd ul li{ float: left; margin-right: 45px; margin-bottom: 63px;transition: transfrom 0.5s;}
+.past-activity .slidetxtbox .bd ul li.mt{ margin-right: 0;}
+.past-activity .slidetxtbox .bd ul li:hover{transform: scale(1.1);
+    -webkit-box-shadow: 6px 6px 5px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 6px 6px 5px  rgba(0, 0, 0, 0.3);
+    box-shadow: 6px 6px 5px rgba(0, 0, 0, 0.3);}
+.past-activity .slidetxtbox .bd ul li .past-pic{}
+.past-activity .slidetxtbox .bd ul li .past-page{ padding-top: 24px; padding-bottom: 20px;border: 1px solid #e7e7e7; border-top: 0; text-align: center;color: #333;}
+.past-activity .slidetxtbox .bd ul li .past-page .one{font-size: 16px; }
+.past-activity .slidetxtbox .bd ul li .past-page .line1{ margin-top: 13px;display: inline-block;width: 46px; height: 3px; background: #bdbcbc;}
+.past-activity .slidetxtbox .bd ul li .past-page .two{font-size: 15px; margin-top: 14px;}
+.past-activity .slidetxtbox .bd ul li .past-page .three{font-size: 15px;}
+.past-activity .slidetxtbox .bd ul li .past-page .four{font-size: 16px;color: #666; height: 44px; line-height: 44px;}
+.past-activity .slidetxtbox .bd ul li:hover .past-page{
+    color: #fff;
+    background: url("past-activity_04.png") no-repeat center;
+}
+.past-activity .slidetxtbox .bd ul li:hover .line1,.past-activity .slidetxtbox .bd ul li:hover .line2{background: #fff;}
+.past-activity .slidetxtbox .bd ul li:hover .four{color: #fff;}
